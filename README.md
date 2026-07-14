@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
