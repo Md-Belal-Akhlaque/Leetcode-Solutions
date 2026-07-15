@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
