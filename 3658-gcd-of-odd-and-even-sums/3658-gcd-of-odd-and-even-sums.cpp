@@ -18,3 +18,11 @@ public:
         return gcd(sumOdd, sumEven);
     }
 };
+
+// gcd(n2 ,n(n+1))=n×gcd(n,n+1)
+
+// Ye GCD ki property hai:
+
+// gcd(ax,ay)=a×gcd(x,y)
+// gcd(n,n+1)=1
+// so return n
