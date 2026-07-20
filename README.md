@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0724-find-pivot-index](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
