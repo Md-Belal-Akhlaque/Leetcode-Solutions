@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
