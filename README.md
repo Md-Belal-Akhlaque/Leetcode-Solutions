@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Math
 |  |
 | ------- |
