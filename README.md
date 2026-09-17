@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -200,10 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Md-Belal-Akhlaque/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
